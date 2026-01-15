@@ -6,35 +6,35 @@ const projects = [
     title: 'Sales Dashboard',
     image: '/project1.png',
     desc: 'Interactive dashboard analyzing sales trends and KPIs, built with Python and Plotly Dash.',
-    href: 'https://github.com/yourname/sales-dashboard',
+    href: 'https://github.com/DhanushPalanisamy/Sales-Dashboard',
     tags: ['Dash', 'Python', 'Plotly']
   },
   {
     title: 'Customer Churn Analysis',
     image: '/project2.jpg',
     desc: 'Churn prediction pipeline using feature engineering and XGBoost with SHAP for interpretability.',
-    href: 'https://github.com/yourname/churn-analysis',
+    href: 'https://github.com/DhanushPalanisamy/Customer-Churn',
     tags: ['XGBoost', 'SHAP', 'ML']
   },
   {
     title: 'Time-Series Forecasting',
     image: '/project3.png',
     desc: 'Demand forecasting using ARIMA and LSTM experiments, with interactive visualizations.',
-    href: 'https://github.com/yourname/time-series-forecast',
+    href: 'https://github.com/DhanushPalanisamy/Time-Series-Forecasting',
     tags: ['LSTM', 'ARIMA', 'Forecasting']
   },
   {
     title: 'Realtime Chat App',
     image: '/project4.png',
     desc: 'A realtime chat application built with Socket.IO and React, featuring channels and typing indicators.',
-    href: 'https://github.com/yourname/realtime-chat',
+    href: 'https://github.com/DhanushPalanisamy/Chat-App',
     tags: ['HTML', 'CSS', 'JavaScript']
   },
   {
     title: 'Portfolio',
     image: '/project5.png',
     desc: 'My 3D Portfolio created with react.js and node.js to showcase interactive visuals of my works.',
-    href: 'https://github.com/yourname/3d-portfolio',
+    href: 'https://github.com/DhanushPalanisamy/Dhanush-Portfolio',
     tags: ['react.js', 'node.js','vite']
   }
 ];
