@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: portfolio
+    buildCommand: npm run build
+    publishDir: ./dist
+    pullRequestPreviewsEnabled: true
