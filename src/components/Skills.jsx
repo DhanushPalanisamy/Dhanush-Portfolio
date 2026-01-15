@@ -3,14 +3,14 @@ import { motion } from 'framer-motion';
 
 export default function Skills() {
   const skills = [
-    { name: 'Python', level: 'Expert' },
-    { name: 'Pandas / NumPy', level: 'Expert' },
-    { name: 'SQL', level: 'Advanced' },
-    { name: 'Plotly / Dash', level: 'Advanced' },
+    { name: 'Python', level: 'Advanced' },
+    { name: 'Pandas / NumPy', level: 'Intermediate' },
+    { name: 'SQL', level: 'Intermediate' },
+    { name: 'Plotly / Dash', level: 'Intermediate },
     { name: 'Power BI / Tableau', level: 'Advanced' },
-    { name: 'Web Development', level: 'Intermediate' },
-    { name: 'Data Modelling', level: 'Advanced' },
-    { name: 'Feature Engineering', level: 'Advanced' }
+    { name: 'Web Development', level: 'Advanced' },
+    { name: 'Data Modelling', level: 'Intermediate' },
+    { name: 'Feature Engineering', level: 'Intermediate' }
   ];
 
   // color palette used for skill accents (keeps consistent look)

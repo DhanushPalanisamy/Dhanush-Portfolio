@@ -26,7 +26,7 @@ const projects = [
   {
     title: 'Realtime Chat App',
     image: '/project4.png',
-    desc: 'A realtime chat application built with Socket.IO and React, featuring channels and typing indicators.',
+    desc: 'A realtime chat application built with HTML, CSS and JavaScript.',
     href: 'https://github.com/DhanushPalanisamy/Chat-App',
     tags: ['HTML', 'CSS', 'JavaScript']
   },
