@@ -6,7 +6,7 @@ export default function Skills() {
     { name: 'Python', level: 'Advanced' },
     { name: 'Pandas / NumPy', level: 'Intermediate' },
     { name: 'SQL', level: 'Intermediate' },
-    { name: 'Plotly / Dash', level: 'Intermediate },
+    { name: 'Plotly / Dash', level: 'Intermediate' },
     { name: 'Power BI / Tableau', level: 'Advanced' },
     { name: 'Web Development', level: 'Advanced' },
     { name: 'Data Modelling', level: 'Intermediate' },
